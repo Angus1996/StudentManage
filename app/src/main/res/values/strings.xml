@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">StudentManage</string>
+    <string name="name_title">姓名：</string>
+    <string name="major_title">专业：</string>
+    <string name="phonenumber_title">手机</string>
+    <string name="qq_title">QQ:</string>
+    <string name="add">添加</string>
+    <string name="delete">删除</string>
+    <string name="add_student">添加学生</string>
+    <string name="ok">确定</string>
+    <string name="cancel">取消</string>
+    <string name="confirm">确认</string>
+    <string name="are_you_sure_to_delete">您确定要删除吗？</string>
+
+</resources>
